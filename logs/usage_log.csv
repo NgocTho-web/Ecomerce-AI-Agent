@@ -1,0 +1,6 @@
+﻿time,model,query,success,seconds,iterations,tools,has_chart
+2026-10-21T18:46:23,qwen2.5:7b,Tổng doanh số và tổng lợi nhuận là bao nhiêu?,True,179.28,2,"calculate_metrics,calculate_metrics",False
+2026-10-21T21:00:40,qwen2.5:7b,Tổng doanh số và tổng lợi nhuận là bao nhiêu?,True,190.4,2,"calculate_metrics,calculate_metrics",False
+2026-10-21T21:08:30,qwen2.5:7b,Doanh số trung bình trên mỗi dòng đơn hàng của phân khúc Consumer?,True,127.86,2,calculate_metrics,False
+2026-10-21T21:11:11,qwen2.5:7b,Tổng doanh số và tổng lợi nhuận là bao nhiêu?,True,61.93,2,"calculate_metrics,calculate_metrics",False
+2026-10-21T21:15:50,qwen2.5:7b,Vẽ biểu đồ đường doanh số theo tháng và nhận xét xu hướng.,True,158.54,2,generate_chart,True
